@@ -1,0 +1,4 @@
+['remote "."']
+url = s3://dvcdatasetpipelinetest
+[core]
+remote = .
